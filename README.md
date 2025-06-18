@@ -1,3 +1,6 @@
+![Screenshot (192)](https://github.com/user-attachments/assets/f89977fb-b82d-49c3-b507-2de7e3bedde0)
+![Screenshot (193)](https://github.com/user-attachments/assets/c4d88899-113e-4ed7-8bc0-5502a56db74b)
+![Screenshot (194)](https://github.com/user-attachments/assets/c7ec347a-8dad-4173-83f2-bb69493a5a71)
 # Split App Full‑Stack
 
 A minimal full‑stack Java 17 Spring Boot + React implementation of a Splitwise‑style expense splitter.
