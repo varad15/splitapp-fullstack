@@ -1,0 +1,9 @@
+com\splitapp\model\Expense.class
+com\splitapp\service\SettlementService$Transaction.class
+com\splitapp\repository\ExpenseRepository.class
+com\splitapp\service\ExpenseService.class
+com\splitapp\service\SettlementService.class
+com\splitapp\controller\ExpenseController.class
+com\splitapp\SplitAppApplication.class
+com\splitapp\model\Expense$ExpenseBuilder.class
+com\splitapp\controller\SettlementController.class
